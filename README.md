@@ -12,6 +12,6 @@ tunggu proses nya sampai selesai, jika sudah selesai untuk login ke ubuntu jalan
 Jika ada error setelah menjalankan bash ubuntu.sh kemungkinan file image ubuntu nya sudah tidak ada, maka perlu diubah bagian \
 https://partner-images.canonical.com/core/focal/current/ubuntu-focal-core-cloudimg \
 dengan cara cek dahulu ke https://partner-images.canonical.com/core/ image apa yg masih tersedia <b>hirsute</b> \
-brarti di ubah menjadi https://partner-images.canonical.com/core/hirsute/current/ubuntu-hirsute-core-cloudimg \
+brarti di ubah menjadi https://partner-images.canonical.com/core/hirsute/current/ubuntu-hirsute-core-cloudimg
 
 seperti itu
